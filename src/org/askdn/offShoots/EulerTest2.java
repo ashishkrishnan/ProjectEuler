@@ -10,6 +10,7 @@ public class EulerTest2 {
 	    final double ROOT5 = 0.447;
 	    final double FACTOR = 1.618;
 
+	    
 	    Scanner input = new Scanner(System.in);
 	    int testcases = input.nextInt();
 	    for(int i=0;i<testcases;i++)
