@@ -6,7 +6,7 @@
 
 package org.askdn.offShoots;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class EulerTest2 {
 
